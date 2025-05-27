@@ -1,2 +1,2 @@
 # LogisticsShippingRates
-edx CD0131EN - Final Project
+Edx CD0131EN - Final Project
